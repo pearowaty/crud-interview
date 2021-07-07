@@ -20,7 +20,7 @@ W projekcie wykorzystano:
 * Dodanie cytatu:
     * POST http://localhost:8080/quotes
 * Zaktualowanie obecnego cytatu:
-    * POST http://localhost:8080/quotes/1
+    * POST http://localhost:8080/quotes/{id}
 
 ## Request & Response przykłady
 
