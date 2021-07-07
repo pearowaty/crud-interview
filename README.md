@@ -69,7 +69,7 @@ Request body:
         "author": "Brian Tracy"
     }
 
-### DELETE /quotes/{id}
+### POST /quotes/{id}
 
 Example: Update – POST  http://localhost:8080/quotes/1
 
@@ -80,6 +80,6 @@ Request body:
         "author": "Brian Tracy"
     }    
 
-### POST /quotes/{id}
+### DELETE /quotes/{id}
 
 Example: Delete – DELETE  http://localhost:8080/quotes/1
